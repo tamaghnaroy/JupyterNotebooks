@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 .ipynb_checkpoints/Brownian Motion simulation-checkpoint.ipynb
 .ipynb_checkpoints/Emperical Mode Decomposition-checkpoint.ipynb
@@ -20,6 +21,7 @@ TISEAN_3.0.0-windows/Tisean_3.0.0/source_c/routines/diffc.log
 TISEAN_3.0.0-windows/Tisean_3.0.0/source_c/routines/diffh.log
 TrendFiltering/.ipynb_checkpoints/L1-Trend Filtering -checkpoint.ipynb
 Untitled Folder/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+=======
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python
 
